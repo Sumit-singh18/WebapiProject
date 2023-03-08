@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+}
+.card {
+  /* background-color: antiquewhite; */
+  border: 2px solid rgb(239, 229, 35);
+  margin: 10px;
+  margin-left: 70px;
+  color: white;
+  
+}
+h1 {
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: bisque;
+
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
